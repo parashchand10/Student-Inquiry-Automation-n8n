@@ -1,6 +1,6 @@
+<img src="Lead Automation.png" alt="n8n Project" width="2000" height="2000" />
 # Student-Inquiry-Automation-n8n
 
-<img src="Lead Automation.png" alt="n8n Project" width="2000" height="2000" />
 
 ---
 An automated workflow designed to streamline student inquiries, categorize requests using AI, and sync data across CRM and communication platforms. This project leverages n8n to eliminate manual data entry and ensure faster response times for prospective students.
