@@ -5,9 +5,10 @@ An automated workflow designed to streamline student inquiries, categorize reque
 
 Workflow Diagram
 ---
-
+**AI Student Inquiry Automation Flow**
 <img src="AI Automation Flow.png" alt="n8n Project" width="700" height="800" />
 
+**Lead Scoring & Email Automation Flow**
 <img src="Lead Automation.png" alt="n8n Project" width="700" height="800" />
 
 Features
